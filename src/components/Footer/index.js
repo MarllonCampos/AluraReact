@@ -9,11 +9,11 @@ function Footer() {
       </a>
       <p>
         Orgulhosamente criado durante os estudos do Marllon
-        <p>
+        <span>
           <a href="https://www.alura.com.br/">
             Durante a aula de Imersão React da Alura
           </a>
-        </p>
+        </span>
       </p>
     </FooterBase>
   );
