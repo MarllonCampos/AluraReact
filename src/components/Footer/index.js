@@ -11,7 +11,7 @@ function Footer() {
         Orgulhosamente criado durante os estudos do Marllon
         <span>
           <a href="https://www.alura.com.br/">
-            Durante a aula de Imersão React da Alura
+             Durante a aula de Imersão React da Alura
           </a>
         </span>
       </p>
