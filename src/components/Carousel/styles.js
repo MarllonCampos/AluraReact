@@ -26,6 +26,12 @@ export const ExtraLink = styled.a`
   &:focus {
     opacity: .5;
   }
+
+  &:hover{
+    height:300px;
+    width:400px;
+  }
+  
   @media (max-width: 800px) {
     display: block;
     margin-bottom: 16px;

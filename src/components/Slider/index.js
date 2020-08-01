@@ -35,15 +35,16 @@ export const SliderItem = styled.li`
     height: 197px;
     object-fit: cover;
   }
+    
 `;
 
 
 const Slider = ({ children }) => (
     <Container>
       <SlickSlider {...{
-        dots: false,
-        infinite: false,
-        speed: 300,
+        dots: true,
+        infinite: true,
+        speed: 600,
         centerMode: false,
         variableWidth: true,
         adaptiveHeight: true,
